@@ -22,6 +22,10 @@ Reviewd Anki cards and started class 05 of 100Devs
 
 Reviewed Anki cards and completed class 05 of 100Devs
 
-### R1D2 (2/24/25)
+### R1D5 (2/24/25)
 
 Only had time to review my Anki cards
+
+### R1D6 (3/15/25)
+
+Reviewed Anki and class 05 of 100Devs. I also completed the 3 layouts using float.
