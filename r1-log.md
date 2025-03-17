@@ -29,3 +29,8 @@ Only had time to review my Anki cards
 ### R1D6 (3/15/25)
 
 Reviewed Anki and class 05 of 100Devs. I also completed the 3 layouts using float.
+
+### R1D7 (3/16/25)
+
+Studied "Responsive Web Designs" by Shaw Howe for class 05 of 100Devs
+https://learn.shayhowe.com/advanced-html-css/responsive-web-design/
