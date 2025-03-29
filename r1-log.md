@@ -34,3 +34,7 @@ Reviewed Anki and class 05 of 100Devs. I also completed the 3 layouts using floa
 
 Studied "Responsive Web Designs" by Shaw Howe for class 05 of 100Devs
 https://learn.shayhowe.com/advanced-html-css/responsive-web-design/
+
+### R1D8 (3/29/25)
+
+Reviewed Anki cards and completed class 06 of 100Devs
