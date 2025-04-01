@@ -38,3 +38,7 @@ https://learn.shayhowe.com/advanced-html-css/responsive-web-design/
 ### R1D8 (3/29/25)
 
 Reviewed Anki cards and completed class 06 of 100Devs
+
+### R1D9 (3/31/25)
+
+Started class 07 of 100Devs
