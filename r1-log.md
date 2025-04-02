@@ -42,3 +42,7 @@ Reviewed Anki cards and completed class 06 of 100Devs
 ### R1D9 (3/31/25)
 
 Started class 07 of 100Devs
+
+### R1D10 (4/1/25)
+
+Made the layout pages responsive with media queries. I also participated in the huddle for 100Devs
