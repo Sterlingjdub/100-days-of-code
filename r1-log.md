@@ -46,3 +46,15 @@ Started class 07 of 100Devs
 ### R1D10 (4/1/25)
 
 Made the layout pages responsive with media queries. I also participated in the huddle for 100Devs
+
+### R1D11 (4/4/25)
+
+I studied the CSS Flexbox Layout Guide.
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+I also completed Flexbox Froggy
+https://flexboxfroggy.com
+
+### R1D12 (4/7/25)
+
+Started class 08 of 100Devs
