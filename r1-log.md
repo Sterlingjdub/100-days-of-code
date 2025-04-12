@@ -57,4 +57,8 @@ https://flexboxfroggy.com
 
 ### R1D12 (4/7/25)
 
-Started class 08 of 100Devs
+Completed class 08 of 100Devs
+
+### R1D13 (4/11/25)
+
+I participated in the huddle for 100Devs. I also completed the first page for the homework that was assigned for class 08. It is the Level Ground page. I also spent time making it responsive across different size devices. This was harder than I thought, not to mention I'm not the biggest fan of floats, so I will need to work more on that.
