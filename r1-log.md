@@ -62,3 +62,7 @@ Completed class 08 of 100Devs
 ### R1D13 (4/11/25)
 
 I participated in the huddle for 100Devs. I also completed the first page for the homework that was assigned for class 08. It is the Level Ground page. I also spent time making it responsive across different size devices. This was harder than I thought, not to mention I'm not the biggest fan of floats, so I will need to work more on that.
+
+### R1D14 (4/20/25
+
+I completed the Source page layout for 100Devs. I started my creating the layout mobile first, and then adjusting it for tablets and PCs. It was a lot easier creating the layout this way and getting the page to be responsive.
