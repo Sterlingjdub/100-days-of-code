@@ -66,3 +66,21 @@ I participated in the huddle for 100Devs. I also completed the first page for th
 ### R1D14 (4/20/25
 
 I completed the Source page layout for 100Devs. I started my creating the layout mobile first, and then adjusting it for tablets and PCs. It was a lot easier creating the layout this way and getting the page to be responsive.
+
+### R1D15 (5/2/25
+
+Completed class 09 of 100Devs. It wasn't about programming. It was focused on networking.
+
+### R1D16 (5/4/25
+
+Completed class 10 of 100Devs. It went over the layouts but also talked a lot about carrying the logs. The next lesson should go into Javascript for the first time. One thing Leon shared is that this is the make or break it point. Things are going to get harder from her on out, so this is where some people who aren't dedicated will call it quits. Not me though! I'm in it all the way!
+
+### R1D17 (5/7/25
+
+I completed the FCC Flexbox tutorial https://www.freecodecamp.org/news/css-flexbox-tutorial-with-cheatsheet/. 
+I also started the Restaurant layout.
+
+### R1D18 (5/8/25
+
+I completed the Flexbox Zombies game https://mastery.games/flexboxzombies/
+
