@@ -84,3 +84,6 @@ I also started the Restaurant layout.
 
 I completed the Flexbox Zombies game https://mastery.games/flexboxzombies/
 
+### R1D19 (5/20/25
+
+Completed the JavaScript Crash Course https://www.youtube.com/watch?v=hdI2bqOjy3c
