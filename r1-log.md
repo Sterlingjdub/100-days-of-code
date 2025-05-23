@@ -87,3 +87,7 @@ I completed the Flexbox Zombies game https://mastery.games/flexboxzombies/
 ### R1D19 (5/20/25
 
 Completed the JavaScript Crash Course https://www.youtube.com/watch?v=hdI2bqOjy3c
+
+### R1D20 (5/22/25
+
+Completed class 11 of 100Devs
