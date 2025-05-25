@@ -91,3 +91,7 @@ Completed the JavaScript Crash Course https://www.youtube.com/watch?v=hdI2bqOjy3
 ### R1D20 (5/22/25
 
 Completed class 11 of 100Devs
+
+### R1D21 (5/24/25
+
+Completed class 12 of 100Devs
