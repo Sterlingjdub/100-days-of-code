@@ -99,3 +99,10 @@ Completed class 12 of 100Devs
 ### R1D22 (5/26/25
 
 I wrote and rewrote the JS for the simple calc, background picker, weekend layouts. I also started class 13 and did the C to F temp converter. I made little changes with the JS to all of the layouts, but after having started class 13, I feel like I can do more to make them mine.
+
+### R1D23 (5/28/25
+
+Completed class 13 of 100Devs. I also completed both Javascript.info: Variables and Javascript.info: Function Basics.
+
+https://javascript.info/variables
+https://javascript.info/function-basics
