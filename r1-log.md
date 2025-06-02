@@ -63,46 +63,50 @@ Completed class 08 of 100Devs
 
 I participated in the huddle for 100Devs. I also completed the first page for the homework that was assigned for class 08. It is the Level Ground page. I also spent time making it responsive across different size devices. This was harder than I thought, not to mention I'm not the biggest fan of floats, so I will need to work more on that.
 
-### R1D14 (4/20/25
+### R1D14 (4/20/25)
 
 I completed the Source page layout for 100Devs. I started my creating the layout mobile first, and then adjusting it for tablets and PCs. It was a lot easier creating the layout this way and getting the page to be responsive.
 
-### R1D15 (5/2/25
+### R1D15 (5/2/25)
 
 Completed class 09 of 100Devs. It wasn't about programming. It was focused on networking.
 
-### R1D16 (5/4/25
+### R1D16 (5/4/25)
 
 Completed class 10 of 100Devs. It went over the layouts but also talked a lot about carrying the logs. The next lesson should go into Javascript for the first time. One thing Leon shared is that this is the make or break it point. Things are going to get harder from her on out, so this is where some people who aren't dedicated will call it quits. Not me though! I'm in it all the way!
 
-### R1D17 (5/7/25
+### R1D17 (5/7/25)
 
 I completed the FCC Flexbox tutorial https://www.freecodecamp.org/news/css-flexbox-tutorial-with-cheatsheet/. 
 I also started the Restaurant layout.
 
-### R1D18 (5/8/25
+### R1D18 (5/8/25)
 
 I completed the Flexbox Zombies game https://mastery.games/flexboxzombies/
 
-### R1D19 (5/20/25
+### R1D19 (5/20/25)
 
 Completed the JavaScript Crash Course https://www.youtube.com/watch?v=hdI2bqOjy3c
 
-### R1D20 (5/22/25
+### R1D20 (5/22/25)
 
 Completed class 11 of 100Devs
 
-### R1D21 (5/24/25
+### R1D21 (5/24/25)
 
 Completed class 12 of 100Devs
 
-### R1D22 (5/26/25
+### R1D22 (5/26/25)
 
 I wrote and rewrote the JS for the simple calc, background picker, weekend layouts. I also started class 13 and did the C to F temp converter. I made little changes with the JS to all of the layouts, but after having started class 13, I feel like I can do more to make them mine.
 
-### R1D23 (5/28/25
+### R1D23 (5/28/25)
 
 Completed class 13 of 100Devs. I also completed both Javascript.info: Variables and Javascript.info: Function Basics.
 
 https://javascript.info/variables
 https://javascript.info/function-basics
+
+### R1D24 (6/1/25)
+
+I spent today redoing my JS assignments from classes 12 and 13
