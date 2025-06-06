@@ -110,3 +110,16 @@ https://javascript.info/function-basics
 ### R1D24 (6/1/25)
 
 I spent today redoing my JS assignments from classes 12 and 13
+
+### R1D25 (6/4/25)
+
+I spent today learning about Function Expressions and Arrow Functions
+
+https://javascript.info/function-expressions
+https://javascript.info/arrow-functions-basics
+
+### R1D26 (6/5/25)
+
+I spent today learning about For and While loops
+
+https://github.com/thejsway/thejsway/blob/master/manuscript/chapter04.md
