@@ -123,3 +123,11 @@ https://javascript.info/arrow-functions-basics
 I spent today learning about For and While loops
 
 https://github.com/thejsway/thejsway/blob/master/manuscript/chapter04.md
+
+### R1D27 (6/6/25)
+
+Practiced JS today
+
+### R1D28 (6/7/25)
+
+Completed class 14 of 100Devs
