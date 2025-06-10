@@ -131,3 +131,7 @@ Practiced JS today
 ### R1D28 (6/7/25)
 
 Completed class 14 of 100Devs
+
+### R1D29 (6/9/25)
+
+Started class 16 of 100Devs
