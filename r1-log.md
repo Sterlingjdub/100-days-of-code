@@ -135,3 +135,7 @@ Completed class 14 of 100Devs
 ### R1D29 (6/9/25)
 
 Started class 16 of 100Devs
+
+### R1D30 (6/11/25)
+
+Completed class 16 of 100Devs
