@@ -139,3 +139,7 @@ Started class 16 of 100Devs
 ### R1D30 (6/11/25)
 
 Completed class 16 of 100Devs
+
+### R1D31 (6/12/25)
+ 
+Worked on more JS for 100Devs
