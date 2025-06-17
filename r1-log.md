@@ -141,5 +141,10 @@ Started class 16 of 100Devs
 Completed class 16 of 100Devs
 
 ### R1D31 (6/12/25)
- 
+
 Worked on more JS for 100Devs
+
+### R1D32 (6/16/25)
+
+Started studying "The JavaScript Way"
+https://github.com/bpesquet/thejsway
