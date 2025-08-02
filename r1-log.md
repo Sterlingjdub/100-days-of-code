@@ -113,28 +113,28 @@ Completed class 16 of 100Devs
 ### R1D31 (6/12/25)
 Worked on more JS for 100Devs
 
-### R1D32 (6/16/25)
+### R1D32 (6/17/25)
 Started studying "The JavaScript Way"
 https://github.com/bpesquet/thejsway
 
-### R1D33 (6/17/25)
+### R1D33 (7/13/25)
 Completed the "The JavaScript Way", and chapter 1 of "Eloquent JavaScript
 https://github.com/bpesquet/thejsway
 https://eloquentjavascript.net/3rd_edition/
 
-### R1D34 (6/17/25)
+### R1D34 (7/15/25)
 Completed chapters 2-3 of "Eloquent JavaScript"
 https://eloquentjavascript.net/3rd_edition/
 
-### R1D35 (6/21/25)
+### R1D35 (7/20/25)
 Completed Codecademy: Intro to JavaScript (1-6) and Git and GitHub crash course
 https://www.codecademy.com/enrolled/courses/introduction-to-javascript
 https://www.youtube.com/watch?v=SWYqp7iY_Tc
 
-### R1D36 (6/23/25)
+### R1D36 (7/22/25)
 Completed "Git from the bottom up" and participated in the Huddle for 100Devs
 https://jwiegley.github.io/git-from-the-bottom-up/
 
-### R1D37 (6/26/25)
-Working through the super review video for 100Devs
+### R1D37 (8/2/25)
+Completed the super review video for 100Devs
 https://www.youtube.com/watch?v=AkXLGS57MS4&t=19236s
