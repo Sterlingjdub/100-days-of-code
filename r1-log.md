@@ -138,3 +138,13 @@ https://jwiegley.github.io/git-from-the-bottom-up/
 ### R1D37 (8/2/25)
 Completed the super review video for 100Devs
 https://www.youtube.com/watch?v=AkXLGS57MS4&t=19236s
+
+### R1D38 (8/25/25)
+I completed class 19 of 100Devs and completed my first 3 katas of Codewars
+https://www.youtube.com/watch?v=YUQUGtUbwMY
+
+### R1D39 (8/26/25)
+Completed 2 more katas for Codewars
+I also completed both "The JS Way: Arrays" and "The JS Way: Objects"
+https://github.com/thejsway/thejsway/blob/master/manuscript/chapter07.md
+https://github.com/thejsway/thejsway/blob/master/manuscript/chapter06.md
