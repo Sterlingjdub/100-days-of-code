@@ -148,3 +148,24 @@ Completed 2 more katas for Codewars
 I also completed both "The JS Way: Arrays" and "The JS Way: Objects"
 https://github.com/thejsway/thejsway/blob/master/manuscript/chapter07.md
 https://github.com/thejsway/thejsway/blob/master/manuscript/chapter06.md
+
+
+
+
+
+### RESET of 100 days
+https://wguacademy.udemy.com/course/100-days-of-code/learn/lecture/17841340#overview
+
+### R1D1 (3/16/26)
+Completed section 1 (Beginner - Working with Variables in Python to Manage Data)
+
+### R1D2 (3/17/26)
+Started section 2 (Beginner - Understanding Data Types and How to Manipulate Strings)
+
+### R1D3 (3/19/26)
+Finised section 2 (Beginner - Understanding Data Types and How to Manipulate Strings), and also finished section 3 (Beginner - Control Flow and Logical Operators)
+
+### R1D4 (3/20/26)
+Finished section 4 (Beginner - Randomisation and Python Lists)
+
+### R1D5 (3/21/26)
