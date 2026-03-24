@@ -169,3 +169,8 @@ Finised section 2 (Beginner - Understanding Data Types and How to Manipulate Str
 Finished section 4 (Beginner - Randomisation and Python Lists)
 
 ### R1D5 (3/21/26)
+Finished section 5 (Beginner - Python Loops)
+Finished section 6 (Beginner - Python Functions & Karel)
+
+### R1D6 (3/23/26)
+Finished section 7 (Beginner - Hangman project)
