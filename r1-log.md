@@ -174,3 +174,7 @@ Finished section 6 (Beginner - Python Functions & Karel)
 
 ### R1D6 (3/23/26)
 Finished section 7 (Beginner - Hangman project)
+
+### R1D7 (3/25/26)
+Finished section 8 (Beginner - Funcation Parameters & Caesar Cipher)
+Finished section 9 (Beginner - Dictionaries, Nesting and the Secret Auction)
