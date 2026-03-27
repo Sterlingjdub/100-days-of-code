@@ -178,3 +178,6 @@ Finished section 7 (Beginner - Hangman project)
 ### R1D7 (3/25/26)
 Finished section 8 (Beginner - Funcation Parameters & Caesar Cipher)
 Finished section 9 (Beginner - Dictionaries, Nesting and the Secret Auction)
+
+### R1D8 (3/26/26)
+Started section 10 (Beginner - Functions with Outputs)
