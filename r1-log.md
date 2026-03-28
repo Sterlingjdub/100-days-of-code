@@ -181,3 +181,7 @@ Finished section 9 (Beginner - Dictionaries, Nesting and the Secret Auction)
 
 ### R1D8 (3/26/26)
 Started section 10 (Beginner - Functions with Outputs)
+
+### R1D9 (3/28/26)
+Finished section 10 (Beginner - Functions with Outputs)
+Finished section 11 (Beginner - The Blackjack Capstone Project)
