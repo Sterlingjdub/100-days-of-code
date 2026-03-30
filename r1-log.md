@@ -185,3 +185,6 @@ Started section 10 (Beginner - Functions with Outputs)
 ### R1D9 (3/28/26)
 Finished section 10 (Beginner - Functions with Outputs)
 Finished section 11 (Beginner - The Blackjack Capstone Project)
+
+### R1D10 (3/30/26)
+Finished section 12 (Beginner - Scope & Number Guessing Game)
