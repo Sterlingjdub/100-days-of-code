@@ -188,3 +188,7 @@ Finished section 11 (Beginner - The Blackjack Capstone Project)
 
 ### R1D10 (3/30/26)
 Finished section 12 (Beginner - Scope & Number Guessing Game)
+
+### R1D11 (3/31/26)
+Finished section 13 (Beginner - Debugging: How to Find and Fix Errors in your Code)
+Started section 14 (Beginner - Higher Lower Game Project)
