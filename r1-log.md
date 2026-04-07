@@ -196,3 +196,7 @@ Started section 14 (Beginner - Higher Lower Game Project)
 ### R1D12 (4/4/26)
 Completed section 14 (Beginner - Higher Lower Game Project)
 Started section 18 (Intermediate - Turtle & the Graphical User Interface (GUI))
+
+### R1D13 (4/6/26)
+Completed section 18 (Intermediate - Turtle & the Graphical User Interface (GUI))
+Started section 24 (Intermediate - Files, Directories and Paths)
