@@ -200,3 +200,7 @@ Started section 18 (Intermediate - Turtle & the Graphical User Interface (GUI))
 ### R1D13 (4/6/26)
 Completed section 18 (Intermediate - Turtle & the Graphical User Interface (GUI))
 Started section 24 (Intermediate - Files, Directories and Paths)
+
+### R1D14 (4/7/26)
+Completed section 24 (Intermediate - Files, Directories and Paths)
+Joined in the huddle for 100 Devs
